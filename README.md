@@ -12,7 +12,7 @@
 <details open> 
   <summary><h2>📘 My favorite  finished projects</h2></summary>
 
-  <p align="left">
+  <p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
@@ -23,40 +23,20 @@
     </p>
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-kanban)](https://github.com/IlmiraYagudina/java-kanban)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
 
+<details open> 
+  <summary><h2>📘 Group project</h2></summary>
 
-<h1 align="center">Group project</h1>
+  <p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
+
+    </p>
+</details>
 
 
 <h1 align="center">GitHub profile trophies</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
-
-
-<h1 align="center">My favorite  finished projects</h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-kanban)](https://github.com/IlmiraYagudina/java-kanban)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
-
-
-<h1 align="center">Group project</h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
-
-
-<h1 align="center">GitHub profile trophies</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
