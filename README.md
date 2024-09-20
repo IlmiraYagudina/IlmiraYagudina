@@ -1,16 +1,22 @@
 ## Hi there 👋
+### My name is Ilmira. I am a java developer. 🔥 
 
-<!--
-**IlmiraYagudina/IlmiraYagudina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">My favorite  finished projects</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-kanban)](https://github.com/IlmiraYagudina/java-kanban)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
+
+
+<h1 align="center">Group project</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
+
+
+<h1 align="center">GitHub profile trophies</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
