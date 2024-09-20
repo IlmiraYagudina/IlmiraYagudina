@@ -19,11 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
 
 </details>
+
 <details open> 
   <summary><h2>📘 Group project</h2></summary>
-
   <p align="center">
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
+</details>
 
     </p>
 </details>
