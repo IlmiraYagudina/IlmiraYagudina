@@ -18,12 +18,10 @@
 <details open> 
   <summary><h2>📘 My favorite  finished projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/IlmiraYagudina/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/IlmiraYagudina/java-explore-with-me"><img width="278" src="https://ilmirayagudina-github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="java-explore-with-me"></a>
     </p>
-
+</details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
