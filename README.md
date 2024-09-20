@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IlmiraYagudina">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Ilmira Yagudina" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Ilmira%20Yagudina&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Ilmira Yagudina" /></a>
 </p>
 
 <p align="center">
