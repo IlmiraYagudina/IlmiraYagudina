@@ -17,7 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-shareit)](https://github.com/IlmiraYagudina/java-shareit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-kanban)](https://github.com/IlmiraYagudina/java-kanban)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
-
+</p>
 </details>
 
 <details open> 
@@ -25,7 +25,6 @@
   <p align="center">
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
-</details>
 
     </p>
 </details>
@@ -35,4 +34,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=IlmiraYagudina)](https://github.com/ryo-ma/github-profile-trophy)
