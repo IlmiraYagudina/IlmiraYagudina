@@ -11,7 +11,6 @@
 
 <details open> 
   <summary><h2>📘 My favorite  finished projects</h2></summary>
-
   <p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me)](https://github.com/IlmiraYagudina/java-explore-with-me)
@@ -19,16 +18,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-kanban)](https://github.com/IlmiraYagudina/java-kanban)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmiraYagudina&layout=compact)](https://github.com/IlmiraYagudina/github-readme-stats)
 
-
-    </p>
 </details>
-
-
 <details open> 
   <summary><h2>📘 Group project</h2></summary>
 
   <p align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
 
     </p>
