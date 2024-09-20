@@ -26,7 +26,6 @@
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-filmorate)](https://github.com/IlmiraYagudina/java-filmorate)
 
-    </p>
 </details>
 
 
