@@ -9,17 +9,16 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Java%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
-
-
-
 <details open> 
   <summary><h2>📘 My favorite  finished projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/IlmiraYagudina/java-explore-with-me"><img width="278" src="https://ilmirayagudina-github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="java-explore-with-me"></a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
+    
+    <a href="https://github.com/IlmiraYagudina/java-explore-with-me"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IlmiraYagudina&repo=java-explore-with-me&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="java-explore-with-me"></a>
     </p>
 </details>
 
